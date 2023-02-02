@@ -7,7 +7,10 @@ This interactive iOS app allows users to craft and showcase a unique personal in
 ### App Walk-though
 
 
-<!-- <img src="https://github.com/samj10/codepath-prework/blob/main/prework_gif.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="https://github.com/samj10/codepath-prework/blob/main/prework_gif.gif" width=200><br> OR <img src="/Users/samyakjain/Desktop/codepath-prework/prework_gif.gif" width=200><br> -->
+![](prework_gif.gif)
+
+
 
 
 ### Required Features
