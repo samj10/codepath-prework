@@ -1,8 +1,8 @@
-## NAME_OF_YOUR_APP_HERE
+## CODEPATH PRE-WORK
 
 ### App Description
 
-`TODO://` Add app description
+This interactive iOS app allows users to craft and showcase a unique personal introduction that includes details such as their name, school, current academic year, number of pets, and interest in acquiring more. With an easy-to-use interface and intuitive controls, the app brings a fun and engaging experience to the task of self-introduction.
 
 ### App Walk-though
 
